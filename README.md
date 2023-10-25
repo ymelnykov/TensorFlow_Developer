@@ -1,0 +1,1 @@
+Here you can find my solutions to some of the DeepLearning.AI TensorFlow Developer Professional Certificate program assignements. These solutions are not the notebooks offered by the courses where one should fill in the gaps with code snippets to submit, but rather my somewhat arbitrary interpretations thereof written from scratch.
